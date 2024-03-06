@@ -23,3 +23,6 @@
 .col-sm img{
     height: 140px;
 }
+form .submit-button{
+    width: 100%;
+}
